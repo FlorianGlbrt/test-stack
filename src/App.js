@@ -10,7 +10,7 @@ function ButtonWithText() {
 
   return (
     <>
-      <button onClick={handleClick}>Lezzzzz go !</button>
+      <button onClick={handleClick}>Lezzzzz go ! EDIT</button>
       {showText && <p>LAUL, y'a rien Florian a rien foutu :D</p>}
     </>
   );
